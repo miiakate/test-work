@@ -1,0 +1,21 @@
+<div class="container">
+  <h3>Home</h3>
+  <div class="content">
+    <div class="cards" *ngFor="let event of events$ | async">
+      <div class="picture_content">
+        <img src="assets/images/pricture.jpg">
+      </div>
+      <div class="title-content">
+        <h3>{{event.name}}</h3>
+        <div class="about">
+          <span>{{event.address}}</span> &nbsp; &nbsp;
+          <span>{{event.date | date : 'MMM d'}}</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="cards" style="text-align: center" routerLink="create">
+      + Add More
+    </div>
+  </div>
+</div>

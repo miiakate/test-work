@@ -1,0 +1,23 @@
+<div class="container">
+  <h2 routerLink="/"><i class="fa fa-long-arrow-left fa-fw"></i> Add Event</h2>
+  <div class="content-form form-popup">
+    <form [formGroup]="profileForm" (submit)="emitSave(profileForm.value, profileForm.valid)" class="form-container">
+
+      <label for="name"><b>Event Name</b></label>
+      <input type="text" id="name" placeholder="Enter Name" name="name" formControlName="name" required>
+      <label for="address"><b>Address</b></label>
+      <input type="text" id="address" placeholder="Enter Address" formControlName="address" name="address" required>
+
+      <label for="date"><b>Date</b></label>
+      <input type="date" id="date" name="date" formControlName="date" required>
+
+      <button type="submit" class="btn" [disabled]="!profileForm.valid"
+              (click)="emitSave(profileForm.value, profileForm.valid)">
+        ADD
+      </button>
+
+    </form>
+  </div>
+
+</div>
+

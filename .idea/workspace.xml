@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="eabb5f31-f8d3-4675-a274-83ed07ef9968" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1grNNycv4UGclp49HSGQvDtSDV1" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ufind/management-panel" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/assets/images" />
+      <recent name="$PROJECT_DIR$/src/app/modules/core/api" />
+      <recent name="$PROJECT_DIR$/src/app/modules/core/services" />
+      <recent name="$PROJECT_DIR$/src/app/features/dashboard/features" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.Angular CLI Server">
+    <configuration name="Tests (test-work)" type="JavaScriptTestRunnerKarma">
+      <config-file value="$PROJECT_DIR$/karma.conf.js" />
+      <working-directory value="$PROJECT_DIR$" />
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="E2E Tests (test-work)" type="JavaScriptTestRunnerProtractor">
+      <config-file value="$PROJECT_DIR$/e2e/protractor.conf.js" />
+      <node-interpreter value="project" />
+      <protractor-options value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Angular Application" type="JavascriptDebugType" uri="http://localhost:4200">
+      <method v="2" />
+    </configuration>
+    <configuration name="Angular CLI Server" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eabb5f31-f8d3-4675-a274-83ed07ef9968" name="Default Changelist" comment="" />
+      <created>1598868714804</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598868714804</updated>
+      <workItem from="1598868716169" duration="954000" />
+      <workItem from="1598869713544" duration="57000" />
+      <workItem from="1598871049427" duration="81000" />
+      <workItem from="1598871153499" duration="4000" />
+      <workItem from="1598872844443" duration="1759000" />
+      <workItem from="1598874756668" duration="1775000" />
+      <workItem from="1598876582847" duration="1844000" />
+      <workItem from="1598878471542" duration="2648000" />
+      <workItem from="1598881274182" duration="3466000" />
+      <workItem from="1598884878569" duration="1385000" />
+      <workItem from="1598886771876" duration="1784000" />
+      <workItem from="1598888870663" duration="1783000" />
+      <workItem from="1598890778588" duration="1783000" />
+      <workItem from="1598892652413" duration="1783000" />
+      <workItem from="1598894476821" duration="1557000" />
+      <workItem from="1598899389837" duration="1683000" />
+      <workItem from="1598901332005" duration="1784000" />
+      <workItem from="1598903205855" duration="1782000" />
+      <workItem from="1598905077512" duration="1778000" />
+      <workItem from="1598907049445" duration="1787000" />
+      <workItem from="1598908891381" duration="1778000" />
+      <workItem from="1598910702363" duration="2643000" />
+      <workItem from="1598915030812" duration="1776000" />
+      <workItem from="1598916845444" duration="1790000" />
+      <workItem from="1598918670719" duration="1778000" />
+      <workItem from="1598920497155" duration="1782000" />
+      <workItem from="1598922353657" duration="1773000" />
+      <workItem from="1598924181035" duration="276000" />
+      <workItem from="1598960936038" duration="815000" />
+      <workItem from="1598967084023" duration="1660000" />
+      <workItem from="1598968922211" duration="789000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.ts" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="661" y="342" width="626" height="403" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1598877511953">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="661" y="342" width="626" height="403" key="#com.intellij.fileTypes.FileTypeChooser/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1598877511953" />
+    <state x="693" y="289" width="524" height="509" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1598893764852">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="693" y="289" width="524" height="509" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1598893764852" />
+    <state x="2663" y="278" width="424" height="491" key="FileChooserDialogImpl" timestamp="1598899407515">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="743" y="298" width="424" height="491" key="FileChooserDialogImpl/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1598874372911" />
+    <state x="2663" y="278" key="FileChooserDialogImpl/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1598899407515" />
+    <state x="651" y="148" width="618" height="783" key="find.popup" timestamp="1598877472260">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="651" y="148" width="618" height="783" key="find.popup/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1598877472260" />
+  </component>
+</project>
